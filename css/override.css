@@ -10,7 +10,7 @@
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg-am.jpg) no-repeat center center;
+    background: url(../img/intro-bg-am.JPG) no-repeat center center;
     background-size: cover;
 }
 
@@ -35,6 +35,7 @@
   margin: 0 0 15px;
   right: 0;
 }
+
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
@@ -97,7 +98,7 @@
   }
 }
 
-/*Taken from agency.css*/
+/*Modified from agency.css*/
 .portfolio-modal .modal-content {
   border-radius: 0;
   background-clip: border-box;
