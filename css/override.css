@@ -29,6 +29,12 @@
 .bg-light-gray {
   background-color: #f8f8f8;
 }
+.img-container {
+  display: block;
+  margin:auto;
+  position: relative;
+  max-width: 300px;
+}
 
 /*Taken from agency.css*/
 #portfolio .portfolio-item {
