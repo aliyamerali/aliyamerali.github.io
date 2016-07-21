@@ -11,6 +11,7 @@
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro-bg-am.JPG) no-repeat center center;
+    /*background: url(../img/aliyaspeaks.jpg) no-repeat center center;*/
     background-size: cover;
 }
 
@@ -34,6 +35,11 @@
   margin:auto;
   position: relative;
   max-width: 300px;
+}
+.content-section-skills {
+    padding: 50px 0px;
+    border-top: 1px solid #e7e7e7;
+    /*border-bottom: 1px solid #4d4949; */
 }
 
 /*Taken from agency.css*/
