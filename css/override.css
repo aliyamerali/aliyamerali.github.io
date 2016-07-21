@@ -1,7 +1,7 @@
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg-am.JPG) no-repeat center center;
+    background: url(../img/banner-bg-am-min.JPG) no-repeat center center;
     background-size: cover;
 }
 
@@ -10,8 +10,7 @@
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg-am.JPG) no-repeat center center;
-    /*background: url(../img/aliyaspeaks.jpg) no-repeat center center;*/
+    background: url(../img/intro-bg-am-min.JPG) no-repeat center center;
     background-size: cover;
 }
 
