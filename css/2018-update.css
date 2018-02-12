@@ -1,0 +1,14 @@
+.intro-header {
+    padding-top: 50px; 
+    padding-bottom: 50px; 
+    text-align: center;
+    color: #f8f8f8;
+    background: #f88379;
+    background-size: cover;
+}
+
+html, body {
+  margin:0;
+  padding:0;
+  background: #f88379;
+}
